@@ -92,7 +92,7 @@
  <check level="warning" class="org.scalastyle.scalariform.SimplifyBooleanExpressionChecker" enabled="true"></check>
  <check level="warning" class="org.scalastyle.scalariform.IfBraceChecker" enabled="true">
   <parameters>
-   <parameter name="singleLineAllowed"><![CDATA[true]]></parameter>
+   <parameter name="singleLineAllowed"><![CDATA[false]]></parameter>
    <parameter name="doubleLineAllowed"><![CDATA[false]]></parameter>
   </parameters>
  </check>
